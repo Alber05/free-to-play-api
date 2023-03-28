@@ -1,0 +1,10 @@
+#root {
+  text-align: center;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.App {
+  background-color: #272b30;
+  min-height: 100vh;
+}
